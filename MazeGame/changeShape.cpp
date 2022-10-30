@@ -90,6 +90,7 @@ int main()
 				//적은 사각형 원 위치
 				small_rect_shape[0].setPosition(Vector2f((float)x, (float)y));
 				break;
+
 			}
 		}
 
